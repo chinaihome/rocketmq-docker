@@ -16,10 +16,6 @@ RocketMQ base
 
     可以根据需要调整RocketMQ 内存参数(base/Dockerfile)
 
-RocketMQ 4.5.0-incubating
-
-    docker-compose up -d
-
 RocketMQ 4.5.0
 
     docker-compose up -d
