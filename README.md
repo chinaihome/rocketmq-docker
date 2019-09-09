@@ -1,5 +1,5 @@
 # rocketmq-docker
-有坑，重新弄了下
+重新弄了下
 
 参考了https://github.com/FengRi/rocketmq-docker
 
